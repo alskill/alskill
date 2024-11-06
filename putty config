@@ -1,0 +1,10 @@
+AWS LOGIN
+create ec2 instance 
+amazon linux
+ssh default
+create
+OPEN PUTTY
+copy ec2 ip on hostname
+connection ---SSH ---Auth---Credential
+browse private key ec2
+open 
